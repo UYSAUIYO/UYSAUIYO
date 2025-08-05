@@ -20,4 +20,4 @@ _____________|','   ///_/-------------/   |
               |==========='
 ``````
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=UYSAUIYO&amp;show_icons=true&amp;theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UYSAUIYO&hide=html,less,scss,sass,css)](https://github.com/UYSAUIYO/UYSAUIYO)
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=UYSAUIYO&amp;layout=compact&amp;theme=tokyonight)
