@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UYSAUIYO&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UYSAUIYO&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
