@@ -11,7 +11,7 @@
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm always learning and exploring new technologies
 - 💬 Ask me about anything tech-related
-- 📫 How to reach me: [your-email@example.com](mailto:sunyuwen404@163.com)
+- 📫 How to reach me: [sunyuwen404@163.com](mailto:sunyuwen404@163.com)
 
 ---
 
